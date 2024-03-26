@@ -20,7 +20,7 @@ git clone https://github.com/xmrig/xmrig.git
 Creating Directory 
 ```bash
 mkdir xmrig/build
-```bash
+```
 Entering Directory 
 ```bash
 cd xmrig/build
