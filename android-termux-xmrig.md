@@ -1,9 +1,9 @@
 Mining on Android 9 or older with Termux and XMRig for Monero and other cpu mineable coins. 
 Full Set Up & How To video, all commands below: All relevant links in one place: https://linktr.ee/CursedMining
 
-Termux: https://termux.dev/en/ 
-F-Droid: https://f-droid.org/en/ 
-XMRIG Github: https://github.com/xmrig/xmrig
+- Termux: https://termux.dev/en/ 
+- F-Droid: https://f-droid.org/en/ 
+- XMRIG Github: https://github.com/xmrig/xmrig
 
 Commands for getting Termux up to date: 
 ```bash
